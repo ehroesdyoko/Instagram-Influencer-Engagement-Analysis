@@ -12,13 +12,13 @@ To determine which influencers and content strategies (e.g., emoji use, caption 
 
 ## 👤 Influencers Analyzed
 
-| Influencer        | Niche        | Followers (approx) |
-|-------------------|--------------|---------------------|
-| @juttaleerdam      | Athlete       | 5M                  |
-| @negin_mirsalehi   | Fashion       | 7M                  |
-| @jeremyfragrance   | Fragrance     | 3.5M                |
-| @kalvijn           | Youtuber      | 1M                  |
-| @enzoknol          | Vlogger       | 2M                  |
+| Influencer        | Niche        | Followers (approx) | 
+|-------------------|--------------|--------------------|
+| @juttaleerdam      | Athlete       | 5M               |
+| @negin_mirsalehi   | Fashion       | 7M               |
+| @jeremyfragrance   | Fragrance     | 3.5M             |
+| @kalvijn           | Youtuber      | 1M               |
+| @enzoknol          | Vlogger       | 2M               |
 
 ---
 
@@ -51,8 +51,9 @@ To determine which influencers and content strategies (e.g., emoji use, caption 
 
 | File | Description |
 |------|-------------|
-| `DMI_Assignment_Influencer_Report.pdf` | Final report with visuals, models, and recommendations  |
+| `Report.pdf`                           | Final report with visuals, models, and recommendations  |
 | `influencer_engagement_modeling.R`     | R script with EDA, modeling, and visualizations         |
+| `web_scrapping_image_analysis.ipynb`   | Web Scrapping and Image Analysis using Python           |
 | Several csv files                      | Instagram post-level data (text, image metrics, etc.)   |
 
 ---
@@ -69,7 +70,6 @@ To determine which influencers and content strategies (e.g., emoji use, caption 
 
 - **Erlangga H. Roesdyoko**
 - MSc Marketing Analytics & Data Science
-- University of Groningen
 
 ---
 
